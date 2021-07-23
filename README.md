@@ -1,8 +1,13 @@
 ### Hi there 👋
-- My name's Khanh
+- My name's Khanh ![image](https://user-images.githubusercontent.com/78993661/126817404-8545b05b-54e6-44bf-97b4-d4c6cc88310c.png)
+
 - I'm from Hanoi :+1:
-- ![](https://komarev.com/ghpvc/?username=Khanhnq2647)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Khanhnq2647)](https://github.com/Khanhnq2647/github-readme-activity-graph)
+
+<img src = "https://github-readme-stats.vercel.app/api?username=Khanhnq2647&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khanhnq2647&theme=vue)
 
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
