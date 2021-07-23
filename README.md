@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name's Khanh
+I'm from Hanoi :+1:
+
 ![](https://komarev.com/ghpvc/?username=Khanhnq2647)
 
 :+1: :sparkles: :camel: :tada:
